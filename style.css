@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-image: url('https://images.unsplash.com/photo-1557683316-973673baf926');    
+        /* background-image: url('img.jpg');                                                                 */
+                                                               
+}
+.btn{
+    height: 200px;
+    width: 200px;   
+    border-radius:   20%;
+    border: 10px solid black;
+    margin: 1rem;
+
+}
+.btn-container{
+    display: flex;
+    font-size: 3rem;
+    text-align:center ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: magenta;
+}
+.purple{
+    background-color: purple;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
